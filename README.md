@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# AKBANK COBOL BOOTCAMP
 
 Bu repo [Patika.dev](https://www.patika.dev/) tarafindan yapilan AKBANK bootampindeki son odev icin oluşturduğum repodur. İçerisinde 2 adet jcl ve 2 adet cbl dosyasi bulunmakta.
 
