@@ -210,7 +210,7 @@
            MOVE WS-NAME TO SUB-NEW-LNAME.
       *
        0420-REMOVE-SPACES-FUNC.
-           MOVE 0 TO WS-INDEX-1 WS-INDEX-2.
+           MOVE 1 TO WS-INDEX-1 WS-INDEX-2.
            INSPECT WS-NAME TALLYING WS-INDEX-1
                FOR ALL ' '.
            COMPUTE WS-INDEX-1 = 15 - WS-INDEX-1
